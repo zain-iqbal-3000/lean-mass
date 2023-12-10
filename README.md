@@ -47,7 +47,7 @@ Highlight vulnerable points during exercises for safer workouts.
 Enhance user experience with text-to-speech features.
 Provide audible guidance for exercises or other relevant information.
 Usage
-User Registration:
+# User Registration:
 
 Users can create accounts to save their progress and preferences.
 BMI Calculation:
@@ -63,7 +63,7 @@ Explore interactive 3D models for exercise demonstrations.
 Text-to-Speech:
 
 Enable text-to-speech for audible guidance.
-Contributing
+# Contributing
 We welcome contributions to make LeanMass better. To contribute, follow these steps:
 
 Fork the repository.
