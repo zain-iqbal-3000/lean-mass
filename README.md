@@ -66,11 +66,11 @@ Enable text-to-speech for audible guidance.
 # Contributing
 We welcome contributions to make LeanMass better. To contribute, follow these steps:
 
-Fork the repository.
-Create a new branch for your feature/fix: git checkout -b feature-name.
-Make your changes and commit them: git commit -m 'Add feature'.
-Push to the branch: git push origin feature-name.
-Submit a pull request.
+1. Fork the repository.
+2. Create a new branch for your feature/fix: git checkout -b feature-name.
+3. Make your changes and commit them: git commit -m 'Add feature'.
+4. Push to the branch: git push origin feature-name.
+5. Submit a pull request.
 # License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own purposes.
 
