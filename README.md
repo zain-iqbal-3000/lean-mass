@@ -19,19 +19,18 @@ git clone https://github.com/your-username/LeanMass.git
 cd LeanMass
 Install Dependencies:
 
-bash
-Copy code
+
+npm install -g create-vite
 npm install
-Configure the Environment:
+npm install react-router-dom
+npm install @react-oauth/google
+npm install --save @fortawesome/fontawesome-free
+npm install --save bootstrap
+npm install --save tailwindcss
 
-Create a .env file based on the provided .env.example and fill in the necessary configuration parameters.
-Run the Application:
-
-bash
-Copy code
-npm start
 Access the App:
-Open your web browser and navigate to http://localhost:3000 to use LeanMass.
+Open the terminal in your code editor and run npm run dev
+ctrl+click on the link i.e. http://localhost:3000 to use LeanMass.
 
 # Features
 1. BMI Calculation
