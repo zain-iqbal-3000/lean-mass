@@ -3,12 +3,12 @@ Overview
 Welcome to the LeanMass Fitness App repository! LeanMass is a web application designed to assist individuals in achieving their fitness goals by providing personalized BMI calculations, diet recommendations, and exercise guidance. This README will guide you through the setup, features, and contributions to the project.
 
 Table of Contents
-Installation
-Features
-Usage
-Contributing
-License
-Installation
+1. Installation
+2. Features
+3. Usage
+4. Contributing
+5. License
+# Installation
 To get started with LeanMass, follow these steps:
 
 Clone the Repository:
