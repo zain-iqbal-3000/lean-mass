@@ -1,4 +1,4 @@
-#LeanMass Fitness App
+# LeanMass Fitness App
 Overview
 Welcome to the LeanMass Fitness App repository! LeanMass is a web application designed to assist individuals in achieving their fitness goals by providing personalized BMI calculations, diet recommendations, and exercise guidance. This README will guide you through the setup, features, and contributions to the project.
 
@@ -33,7 +33,7 @@ npm start
 Access the App:
 Open your web browser and navigate to http://localhost:3000 to use LeanMass.
 
-#Features
+# Features
 1. BMI Calculation
 Users can input their weight, height, and age to calculate their Body Mass Index (BMI).
 Receive instant feedback on BMI status and recommended ranges.
