@@ -48,12 +48,12 @@ export default function HomePage() {
 
             
             <div className="sections">
-            <h3 className='red'><b>Master Proper Exercise Techniques with 3D Demonstrations</b></h3>
+            <h3 className='red'><b>Master Proper Exercise Techniques with Video Demonstrations</b></h3>
                 
                 <div className="section-container">
                     
                     <div className="section-text-container ">
-                        <p className="section-text lead selector text-justify">Transform your workouts with our revolutionary 3D exercise demonstrations. Visualize, understand, and perfect your form for a safer and more effective fitness journey. Our comprehensive library ensures you get it right every time.</p>
+                        <p className="section-text lead selector text-justify">Transform your workouts with our revolutionary interactive video exercise demonstrations. Visualize, understand, and perfect your form for a safer and more effective fitness journey. Our comprehensive library ensures you get it right every time.</p>
                     </div>
                     <div className ="section-img-container" >
                     <img className="rounded img-fluid" src="src/assets/exercise-cartoon.jpeg" alt="exercise-cartoon" />

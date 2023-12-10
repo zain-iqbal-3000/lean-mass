@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import NavBar from '../components/NavBar';
 import {Link } from 'react-router-dom';
 import Footer from '../Footer';
-import './DietPage';
+import './NutritionPage';
 import './LogInPage';
 
 const LoadingScreen = () => (
@@ -42,7 +42,7 @@ const BMIChart = ({ bmi }) => {
             </h2>
             <div className='bmi-chart-buttons'>
               <button className='exercise-btn'><Link to="/LogInPage">Start Exercising</Link></button>
-              <button className='diet-btn'><Link to="/DietPage">Start Dieting</Link></button>
+              <button className='diet-btn'><Link to="/NutritionPage">Start Dieting</Link></button>
             </div>
           </div>
         )}

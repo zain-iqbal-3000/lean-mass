@@ -8,12 +8,13 @@ import HomePage from './pages/homePage'
 import BMIPage from './pages/BMIPage'
 import Contact from './pages/Contact'
 import FAQPage from './pages/FAQPage'
+import ProfilePage from './pages/ProfilePage'
 import MountainClimber from './pages/MountainClimber'
 import PushUp from './pages/PushUp'
 import FloorTricepDips from './pages/FloorTricepDips'
 import ExerciseWeek from './pages/ExerciseWeek'
 import Monday from './pages/Monday'
-import DietPage from './pages/DietPage'
+import NutritionPage from './pages/NutritionPage'
 import LoginPage from './pages/LogInPage'
 
 
@@ -35,8 +36,8 @@ function App() {
         <Route path="/Monday" element={<Monday />}/>
         <Route path="/MountainClimber" element={<MountainClimber />}/>
         <Route path="/PushUp" element={<PushUp />}/>
+        <Route path="/NutritionPage" element={<NutritionPage bmi={bmi} />}/>
         <Route path="/FloorTricepDips" element={<FloorTricepDips />}/>
-        <Route path="/DietPage" element={<DietPage bmi={bmi} />}/>
         <Route path="/LoginPage" element={<LoginPage  loggedIn={loggedIn} setLoggedIn={setLoggedIn}/>}/>
       </Routes>
     </BrowserRouter>

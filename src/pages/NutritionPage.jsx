@@ -1,8 +1,8 @@
 import React from "react";
-import NavBar from '../components/NavBar';
+import NavBar from '../components/NavBarAfterLogin';
 import Footer from "../Footer";
 
-export default function BMIPage({bmi}){
+export default function NutritionPage({bmi}){
     return(
             <>  <NavBar />
                 <div className='diet-page'>

@@ -937,3 +937,20 @@ i:active{
   transform:translate(0,600px);
   
 }
+
+.profile-page{
+  background-color: #1E1E1E;
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  color:#bc2424;
+  font-style: italic;
+}
+.profile-page h1P
+{
+  font-size: 3rem;
+  font-style: italic;
+  color:#bc2424;
+}
