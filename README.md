@@ -50,19 +50,11 @@ Usage
 # User Registration:
 
 Users can create accounts to save their progress and preferences.
-BMI Calculation:
-
-Input weight, height, and age to calculate BMI.
+1. BMI Calculation: Input weight, height, and age to calculate BMI.
 View BMI status and recommended ranges.
-Personalized Guidance:
-
-Receive personalized diet and exercise recommendations.
-Interactive 3D Models:
-
-Explore interactive 3D models for exercise demonstrations.
-Text-to-Speech:
-
-Enable text-to-speech for audible guidance.
+2. Personalized Guidance:Receive personalized diet and exercise recommendations.
+3. Interactive Videos: Explore interactive videos for exercise demonstrations.
+4. Text-to-Speech:Enable text-to-speech for audible guidance.
 # Contributing
 We welcome contributions to make LeanMass better. To contribute, follow these steps:
 
