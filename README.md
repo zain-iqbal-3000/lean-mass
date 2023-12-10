@@ -71,7 +71,7 @@ Create a new branch for your feature/fix: git checkout -b feature-name.
 Make your changes and commit them: git commit -m 'Add feature'.
 Push to the branch: git push origin feature-name.
 Submit a pull request.
-License
+# License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own purposes.
 
 Thank you for choosing LeanMass! We hope this app contributes to a healthier and happier lifestyle. If you have any questions or feedback, feel free to contact us.
